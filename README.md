@@ -42,11 +42,8 @@ Upon project completion, a critical insight was revealed regarding the company's
 ## Contributing
 
 Contributions and suggestions for improvement are welcome. If you find any issues or have ideas to enhance the dashboard, feel free to contact me.
-## License
-
-This Power BI dashboard is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or further information regarding this dashboard, please contact **sanchitsingla1403@gmail.com**
+For any inquiries or further information regarding this dashboard, please contact **rajarya9084@gmail.com**
 ---
